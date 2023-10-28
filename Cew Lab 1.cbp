@@ -1,0 +1,117 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int id;
+    float hours=99;
+    int amount=22;
+
+    printf("Enter employee id:\n");
+    scanf("%d",&id);
+    printf("The employee id is:%d\n",id);
+    printf("The salary is:%2f\n",amount*hours);
+
+    return 0;
+}
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int height,width;
+
+    printf("Enter the height:\n");
+    scanf("%d",&height);
+    printf("Enter the width:\n");
+    scanf("%d",&width);
+    printf("The area of rectangle is:%d\n",height*width);
+    printf("The perimeter of rectangle is:%d\n",height*2+width*2);
+
+    return 0;
+}
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  int height;
+
+  printf("Enter height of the person in cm:\n");
+  scanf("%d",&height);
+  if (height<150){
+    printf("DWARF");
+  }else if(height==150){
+    printf("AVERAGE");
+  }else if(height<=165){
+    printf("TALL");
+  }else{
+    printf("NONE");
+  }
+
+   return 0;
+}
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int decimal(num)
+{
+    int dec=num;
+    int bin=0;
+    int rem=0;
+    int place=1;
+
+    while(dec){
+      rem=dec%2;
+      dec=dec/2;
+      bin=bin+(rem*place);
+      place=place*10
+    }
+    return bin;
+
+}
+
+int main()
+{
+int num;
+printf("The decimal no. is:\n");
+scanf("%d",&num);
+printf("The final number is:%d",decimal(num));
+
+   return 0;
+}
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int fab(a,b,num){
+  int x=a,y=b,z,n=num;
+  if (z==0){
+   return 0;
+  }else{
+  z=x+y;
+  printf("%d",&z);
+  return(y,z,n-1);
+  }
+}
+
+int main(){
+ int a=0,b=1,num;
+ printf("Enter value of num:\n");
+ scanf("%",&num);
+ fab(a,b,num);
+}
