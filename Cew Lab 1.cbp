@@ -1,4 +1,4 @@
-
+QS.01:
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -16,8 +16,7 @@ int main()
     return 0;
 }
 
-
-
+QS.02:
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -35,9 +34,7 @@ int main()
     return 0;
 }
 
-
-
-
+QS.03:
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -60,9 +57,7 @@ int main()
    return 0;
 }
 
-
-
-
+QS.04:
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -93,8 +88,7 @@ printf("The final number is:%d",decimal(num));
    return 0;
 }
 
-
-
+QS.05:
 #include <stdio.h>
 #include <stdlib.h>
 
