@@ -1,0 +1,125 @@
+-------------------------
+    WEATHER INFORMATION   
+-------------------------
+Temperature: 287.21°C
+Pressure: 1016.00 hPa
+Humidity: 58.00%
+Visibility: 5000.00 meters
+Wind Speed: 2.57 m/s
+Longitude: 66.99
+Latitude: 24.86
+Country: PK
+Timezone: 18000
+-------------------------
+
+--------------------------------
+       ADDITIONAL INFO           
+--------------------------------
+Weather Summary: Sunny ☀
+
+Temperature Trend: 🌡⬆
+Wind Speed Trend: 🌬⬇
+Humidity Trend: 💧⬇
+Pressure Trend: ⬇
+
+--------------------------------
+-------------------------
+    WEATHER INFORMATION   
+-------------------------
+Temperature: 287.21°C
+Pressure: 1016.00 hPa
+Humidity: 54.00%
+Visibility: 5000.00 meters
+Wind Speed: 2.06 m/s
+Longitude: 66.99
+Latitude: 24.86
+Country: PK
+Timezone: 18000
+-------------------------
+
+--------------------------------
+       ADDITIONAL INFO           
+--------------------------------
+Weather Summary: Sunny ☀
+
+Temperature Trend: 🌡⬆
+Wind Speed Trend: 🌬⬇
+Humidity Trend: 💧⬇
+Pressure Trend: ⬇
+
+--------------------------------
+-------------------------
+    WEATHER INFORMATION   
+-------------------------
+Temperature: 286.31°C
+Pressure: 1015.90 hPa
+Humidity: 58.05%
+Visibility: 5005.00 meters
+Wind Speed: 2.01 m/s
+Longitude: 66.99
+Latitude: 24.86
+Country: PK
+Timezone: 18000
+-------------------------
+
+--------------------------------
+       ADDITIONAL INFO           
+--------------------------------
+Weather Summary: Sunny ☀
+
+Temperature Trend: 🌡⬆
+Wind Speed Trend: 🌬⬇
+Humidity Trend: 💧⬇
+Pressure Trend: ⬇
+
+--------------------------------
+-------------------------
+    WEATHER INFORMATION   
+-------------------------
+Temperature: 285.21°C
+Pressure: 1016.00 hPa
+Humidity: 58.00%
+Visibility: 5000.00 meters
+Wind Speed: 1.54 m/s
+Longitude: 66.99
+Latitude: 24.86
+Country: PK
+Timezone: 18000
+-------------------------
+
+--------------------------------
+       ADDITIONAL INFO           
+--------------------------------
+Weather Summary: Sunny ☀
+
+Temperature Trend: 🌡⬆
+Wind Speed Trend: 🌬⬇
+Humidity Trend: 💧⬇
+Pressure Trend: ⬇
+
+--------------------------------
+-------------------------
+    WEATHER INFORMATION   
+-------------------------
+Temperature: 285.21°C
+Pressure: 1016.00 hPa
+Humidity: 62.00%
+Visibility: 5000.00 meters
+Wind Speed: 0.00 m/s
+Longitude: 66.99
+Latitude: 24.86
+Country: PK
+Timezone: 18000
+-------------------------
+
+--------------------------------
+       ADDITIONAL INFO           
+--------------------------------
+Weather Summary: Sunny ☀
+
+Temperature Trend: 🌡⬆
+Wind Speed Trend: 🌬⬇
+Humidity Trend: 💧⬇
+Pressure Trend: ⬇
+
+--------------------------------
